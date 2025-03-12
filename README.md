@@ -18,7 +18,7 @@ CSS: Styling and layout.
 JavaScript: DOM manipulation and random quote generation.
 Canva: Background Image
 
-Preview
+✅Preview
 ------
 ![Screenshot 2025-03-12 224522](https://github.com/user-attachments/assets/83faf367-bd07-48ea-bb2f-eb2ee870ff6b)
 
